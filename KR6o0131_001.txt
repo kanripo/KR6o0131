@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:25.720633
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 廣大發願頌
 #+PROPERTY: CBETA_ID T32n1676
 #+PROPERTY: ID KR6o0131
@@ -97,7 +97,7 @@ No. 1676¶
 　我此讚佛功德聚
 　最上勝善極廣大¶
 　普願世間諸有情
-　住彼最勝功德聚
+　住彼最勝功德聚」
 #+END_VERSE
-」¶
+¶
 廣大發願頌
