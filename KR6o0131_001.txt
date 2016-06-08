@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:25.334162
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 廣大發願頌
 #+PROPERTY: CBETA_ID T32n1676
 #+PROPERTY: ID KR6o0131
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1676
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0131_T_000-0756b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0131_T_001-0756b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1676¶
-
- 廣大發願頌¶
+No. 1676¶
+廣大發願頌¶
 ¶
 龍樹菩薩造¶
 西天譯經三藏朝奉大夫試光¶
@@ -98,7 +97,7 @@ No.1676¶
 　我此讚佛功德聚
 　最上勝善極廣大¶
 　普願世間諸有情
-　住彼最勝功德聚
+　住彼最勝功德聚」
 #+END_VERSE
-」¶
+¶
 廣大發願頌
